@@ -3,6 +3,7 @@
 仿美拍直播的点赞动画。
 
 项目地址：<https://github.com/open-android/Android-DivergeView2>
+
 简书：[http://www.jianshu.com/p/2a830d089310](http://www.jianshu.com/p/2a830d089310 "美拍直播")
 
 ## 效果图
